@@ -1,5 +1,7 @@
-# WebTechProject
-Techie Doodles by Rutha and Nikitha (3rd sem CS D section)
+# Online Drawing Tool
+(Techie Doodles by Rutha and Nikitha (3rd sem CS D section))
+
+Implemented a online drawing tool using HTML and Java Script and Web Technology.
 
 1)
 To run the project , you must create a mysql database in your xampp/apache server.
